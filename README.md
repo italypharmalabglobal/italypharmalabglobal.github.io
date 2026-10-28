@@ -7,3 +7,6 @@ Upload all root files to the `main` branch of `italypharmalabglobal/italypharmal
 
 ## Adding future posts
 Use a dedicated `/blog/` folder with a separate listing or Jekyll posts. Do not upload the ZIP itself: extract and upload the individual files.
+
+
+Brand assets: pharma-lab-global-logo.png (provided by the business), favicon.png. All HTML files reference these local assets. Upload all files to the repository root.
