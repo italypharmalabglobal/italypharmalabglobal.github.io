@@ -1,0 +1,10 @@
+title: Pharma Lab Global Italy | Research Education
+description: Educational research notes on peptide identity, analytical methods and scientific evidence.
+url: "https://italypharmalabglobal.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: /blog/:title/
+timezone: Europe/Rome
+exclude:
+  - README.md
+  - Gemfile
